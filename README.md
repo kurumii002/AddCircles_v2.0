@@ -1,4 +1,4 @@
-# SpaceGame
+# AddCircles v2.0
 ## Capturas:
 <img src="screenshoots/s1.png">
 
